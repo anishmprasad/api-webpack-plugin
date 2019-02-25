@@ -1,0 +1,25 @@
+{
+  "name": "api-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack api plugin",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishmprasad/api-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "API",
+    "nodejs",
+    "node"
+  ],
+  "author": "anish.m.prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishmprasad/api-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/anishmprasad/api-webpack-plugin#readme"
+}
